@@ -1,0 +1,5 @@
+﻿  ForeignSaleWorker.cpp
+C:\Users\USER\Desktop\경일과제용\0601\ForeignSaleWorker.cpp(26,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\경일과제용\0601\ForeignSaleWorker.cpp(29,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\경일과제용\0601\ForeignSaleWorker.cpp(32,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0601.vcxproj -> C:\Users\USER\Desktop\경일과제용\0601\x64\Debug\0601.exe

@@ -1,0 +1,5 @@
+﻿  EBook.cpp
+C:\Users\USER\Desktop\경일C++\0607\EBook.cpp(31,26): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  0607.vcxproj -> C:\Users\USER\Desktop\경일C++\0607\x64\Debug\0607.exe
