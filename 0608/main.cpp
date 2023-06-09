@@ -1,8 +1,9 @@
-#include <iostream>
+//#include <iostream>
 #include "String.h"
 //using namespace std;
 
 using namespace my;
+
 int main(void)
 {
 	String str1 = "I like ";
